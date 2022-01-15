@@ -1,0 +1,1681 @@
+[
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 1,
+		"所在区县": "南湖区",
+		"乡镇街道": "新丰镇",
+		"所属区域": "南湖区",
+		"联络站名称": "南湖区新丰镇人大代表联络站",
+		"联络站地址": "新丰镇双龙路1476号",
+		"联络人": "闫  萍",
+		"职务": "新丰镇人大办副主任",
+		"联络电话": 83028661,
+		"移动电话": 13967388431,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1B961A4F3BE3614CE053660A010ABE06",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.917413307,
+				30.707489515
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 2,
+		"所在区县": "南湖区",
+		"乡镇街道": "余新镇",
+		"所属区域": "",
+		"联络站名称": "南湖区余新镇人大代表联络站",
+		"联络站地址": "余新镇渔里路500号余新镇人民政府217室",
+		"联络人": "赵罕金",
+		"职务": "余新镇党政办工作人员",
+		"联络电话": 83166222,
+		"移动电话": 18768311328,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1E415FF3CD6762D4E053660A010AABB7",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.805118952,
+				30.674630549
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 3,
+		"所在区县": "南湖区",
+		"乡镇街道": "凤桥镇",
+		"所属区域": "",
+		"联络站名称": "南湖区凤桥镇人大代表联络站",
+		"联络站地址": "凤桥镇人民政府三楼310室",
+		"联络人": "沈玲芳",
+		"职务": "凤桥镇人大办公室副主任",
+		"联络电话": 83189999,
+		"移动电话": 13957377697,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1E41612EC6A36526E053660A010A788E",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.856889567,
+				30.661718695
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 4,
+		"所在区县": "南湖区",
+		"乡镇街道": "七星街道",
+		"所属区域": "",
+		"联络站名称": "南湖区七星街道人大代表联络站（街道办事处站）",
+		"联络站地址": "南湖区七星路358号七星街道办事处1224室",
+		"联络人": "陈嘉恒",
+		"职务": "七星街道人大工委工作人员",
+		"联络电话": 83888180,
+		"移动电话": 18267388386,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1E415DA6158B631EE053660A010A09E0",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.829096338,
+				30.813903619
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 5,
+		"所在区县": "南湖区",
+		"乡镇街道": "七星街道",
+		"所属区域": "",
+		"联络站名称": "南湖区七星街道人大代表联络站（江南新家园站）",
+		"联络站地址": "浙江省嘉兴市南湖区里仁街江南新家园",
+		"联络人": "倪卫忠",
+		"职务": "江南新家园社区党委书记",
+		"联络电话": 83882818,
+		"移动电话": 13758393588,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1E415DA6158B631EE053660A010A09E0",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.81527453,
+				30.821194626
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 6,
+		"所在区县": "南湖区",
+		"乡镇街道": "建设街道",
+		"所属区域": "",
+		"联络站名称": "南湖区建设街道人大代表联络站（街道中心联络站）",
+		"联络站地址": "建设街道办事处四楼",
+		"联络人": "吴言斐",
+		"职务": "建设街道人大工委工作人员",
+		"联络电话": 82088933,
+		"移动电话": 18257343902,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1E4174A669F76507E053660A010A4364",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.751202108,
+				30.764025207
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 7,
+		"所在区县": "南湖区",
+		"乡镇街道": "新兴街道",
+		"所属区域": "",
+		"联络站名称": "南湖区新兴街道人大代表联络站",
+		"联络站地址": "新兴街道办事处四楼412室",
+		"联络人": "盛  艳",
+		"职务": "新兴街道人大工委工作人员",
+		"联络电话": 82191509,
+		"移动电话": 15958311062,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1E41655A958D65EFE053660A010A2A8C",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.727598368,
+				30.758187034
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 8,
+		"所在区县": "南湖区",
+		"乡镇街道": "新嘉街道",
+		"所属区域": "",
+		"联络站名称": "南湖区新嘉街道人大代表联络站",
+		"联络站地址": "新嘉街道办事处二楼",
+		"联络人": "徐  琴",
+		"职务": "新嘉街道人大工委工作人员",
+		"联络电话": 82217395,
+		"移动电话": 18367330704,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1E412730E59C5C22E053660A010A690C",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.741410512,
+				30.775573398
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 9,
+		"所在区县": "南湖区",
+		"乡镇街道": "解放街道",
+		"所属区域": "",
+		"联络站名称": "南湖区解放街道人大代表联络站",
+		"联络站地址": "东升东路229号解放街道办事处二楼",
+		"联络人": "孙  燕",
+		"职务": "解放街道纪工委副书记",
+		"联络电话": 83675326,
+		"移动电话": 15990306272,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1EA5C37B4824B672E053660A010A635B",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.764134901,
+				30.777910283
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 10,
+		"所在区县": "南湖区",
+		"乡镇街道": "南湖街道",
+		"所属区域": "",
+		"联络站名称": "南湖区南湖街道人大代表联络站",
+		"联络站地址": "南湖区景湖路318号南湖街道办事处302会议室",
+		"联络人": "朱玲清",
+		"职务": "南湖街道党政办主任",
+		"联络电话": 89970309,
+		"移动电话": 13957357037,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1E41655A958B65EFE053660A010A2A8C",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.765618971,
+				30.758487132
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 11,
+		"所在区县": "南湖区",
+		"乡镇街道": "城南街道",
+		"所属区域": "",
+		"联络站名称": "南湖区城南街道人大代表联络站",
+		"联络站地址": "城南街道办事处五楼502",
+		"联络人": "顾新宇",
+		"职务": "城南街道团委书记、文化站长",
+		"联络电话": 82615018,
+		"移动电话": 13511350588,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1E4172F5DEFA65D6E053660A010A1FF9",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.73211579,
+				30.734866393
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 12,
+		"所在区县": "南湖区",
+		"乡镇街道": "长水街道",
+		"所属区域": "",
+		"联络站名称": "南湖区长水街道人大代表联络站",
+		"联络站地址": "珠庵路472号长水街道办事处南楼415办公室",
+		"联络人": "曹  谷",
+		"职务": "长水街道党政办副主任",
+		"联络电话": 82876635,
+		"移动电话": 13588821812,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/99878F2C1F00B259/Default.aspx?id=1E415FF3CD6562D4E053660A010AABB7",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.753095317,
+				30.730254038
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 13,
+		"所在区县": "秀洲区",
+		"乡镇街道": "新城镇",
+		"所属区域": "秀洲区",
+		"联络站名称": "秀洲区新城镇人大代表联络站",
+		"联络站地址": "秀洲区新城街道办事处（昌盛中路288号）",
+		"联络人": "张亚敏",
+		"职务": "新城街道人大办主任",
+		"联络电话": 82712272,
+		"移动电话": 18875879978,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1DC9EA48CE65A715E053660A010A047B",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.710714192,
+				30.763884305
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 14,
+		"所在区县": "秀洲区",
+		"乡镇街道": "高照镇",
+		"所属区域": "",
+		"联络站名称": "秀洲区高照镇人大代表联络站",
+		"联络站地址": "秀洲区加创路906号高照街道办事处418室",
+		"联络人": "沈晨洁",
+		"职务": "",
+		"联络电话": 82796375,
+		"移动电话": 15824346780,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1B9601A7C57862C4E053660A010AEED4",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.667171248,
+				30.758143524
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 15,
+		"所在区县": "秀洲区",
+		"乡镇街道": "嘉北街道",
+		"所属区域": "",
+		"联络站名称": "秀洲区嘉北街道镇人大代表联络站",
+		"联络站地址": "秀洲区嘉北街道办事处（嘉兴市东升西路1号）",
+		"联络人": "武  静",
+		"职务": "党政办副主任",
+		"联络电话": 89970127,
+		"移动电话": 18857378351,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=20C7809E459311D8E053660A010ACAD8",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.720246783,
+				30.778035909
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 16,
+		"所在区县": "秀洲区",
+		"乡镇街道": "塘汇街道",
+		"所属区域": "",
+		"联络站名称": "秀洲区塘汇人大代表联络站",
+		"联络站地址": "秀洲区塘汇街道办事处2号楼319室",
+		"联络人": "顾艳芳",
+		"职务": "塘汇街道人大联络员",
+		"联络电话": 82337722,
+		"移动电话": 18905738223,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1E30CB9C76B50679E053660A010A1719",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.772896426,
+				30.795162778
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 17,
+		"所在区县": "秀洲区",
+		"乡镇街道": "王店镇",
+		"所属区域": "",
+		"联络站名称": "秀洲区王店镇人大代表联络站",
+		"联络站地址": "秀洲区王店镇兴乐路王店镇政府",
+		"联络人": "赵晓婷",
+		"职务": "王店镇人大办公室",
+		"联络电话": 83678683,
+		"移动电话": 15024317312,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1DC9BC090AADA4F2E053660A010A39EC",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.710072293,
+				30.630131035
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 18,
+		"所在区县": "秀洲区",
+		"乡镇街道": "洪合镇",
+		"所属区域": "",
+		"联络站名称": "秀洲区洪合镇人大代表联络站",
+		"联络站地址": "秀洲区洪合镇洪涛路342号一楼",
+		"联络人": "肖沉怡",
+		"职务": "洪合镇人大办公室主任",
+		"联络电话": 83345875,
+		"移动电话": 13586450791,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1DC9A954CF0B96C0E053660A010ACEED",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.662363385,
+				30.685452214
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 19,
+		"所在区县": "秀洲区",
+		"乡镇街道": "新塍镇",
+		"所属区域": "",
+		"联络站名称": "秀洲区新塍镇人大代表联络站",
+		"联络站地址": "秀洲区新塍镇润园路385号新塍镇政府201室",
+		"联络人": "杨维薇",
+		"职务": "新塍镇人大办副主任",
+		"联络电话": 83679006,
+		"移动电话": 18757357397,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1DC9F3551599A6F9E053660A010A1327",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.618765735,
+				30.799412474
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 20,
+		"所在区县": "秀洲区",
+		"乡镇街道": "油车港镇",
+		"所属区域": "",
+		"联络站名称": "秀洲区油车港镇人大代表联络站",
+		"联络站地址": "秀洲区油车港镇政府302室",
+		"联络人": "路 瑛",
+		"职务": "",
+		"联络电话": 82236327,
+		"移动电话": 13967326890,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1DC9E5461038A6C4E053660A010A04C8",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.748449244,
+				30.828912808
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 21,
+		"所在区县": "南湖区",
+		"乡镇街道": "东栅街道",
+		"所属区域": "",
+		"联络站名称": "南湖区东栅街道人大代表联络站",
+		"联络站地址": "东栅街道职工家园二楼",
+		"联络人": "莫永明",
+		"职务": "东栅街道人大工委工作人员",
+		"联络电话": 82570022,
+		"移动电话": 13957390737,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1E415FF3CD6362D4E053660A010AABB7",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.770945764,
+				30.739344324
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 22,
+		"所在区县": "嘉善县",
+		"乡镇街道": "魏塘镇",
+		"所属区域": "嘉善县",
+		"联络站名称": "嘉善县魏塘镇人大代表联络站",
+		"联络站地址": "魏塘街道办事处内（环北西路355号）",
+		"联络人": "丁海萍",
+		"职务": "街道人大办副主任",
+		"联络电话": 84129315,
+		"移动电话": "",
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=21BD1ADB6ABCB816E053660A010A9260",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.91169992,
+				30.850176187
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 23,
+		"所在区县": "嘉善县",
+		"乡镇街道": "惠民镇",
+		"所属区域": "",
+		"联络站名称": "嘉善县惠民镇人大代表联络站",
+		"联络站地址": "惠民街道晋吉路153号",
+		"联络人": "张字溢",
+		"职务": "人大办公室主任",
+		"联络电话": 84252189,
+		"移动电话": 13967301001,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=22712E3A36E497D0E053660A010A0409",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.962112959,
+				30.847129405
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 24,
+		"所在区县": "嘉善县",
+		"乡镇街道": "西塘镇",
+		"所属区域": "",
+		"联络站名称": "嘉善县西塘镇人大代表联络站",
+		"联络站地址": "嘉善县西塘镇南苑路188号（西塘成校内）",
+		"联络人": "张会君",
+		"职务": "镇人大办副主任",
+		"联络电话": 89109057,
+		"移动电话": 15868325012,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=21F8E49D9E224E4BE053660A010ADF32",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.883412826,
+				30.940924467
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 25,
+		"所在区县": "嘉善县",
+		"乡镇街道": "陶庄镇",
+		"所属区域": "",
+		"联络站名称": "嘉善县陶庄镇人大代表联络",
+		"联络站地址": "陶庄镇柳溪路198号（镇政府内）",
+		"联络人": "王  燕",
+		"职务": "镇人大办主任",
+		"联络电话": 84860986,
+		"移动电话": 13666775901,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=21E2ADFC771E7B81E053660A010AF746",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.810579002,
+				30.968872921
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 26,
+		"所在区县": "嘉善县",
+		"乡镇街道": "干窑镇",
+		"所属区域": "",
+		"联络站名称": "嘉善县干窑镇人大代表联络",
+		"联络站地址": "干窑镇人民政府",
+		"联络人": "张宗正",
+		"职务": "镇人大办主任",
+		"联络电话": 84611112,
+		"移动电话": 13656628619,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=233A5E32C138BBB4E053680A010AFE40",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.895143293,
+				30.88910964
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 27,
+		"所在区县": "嘉善县",
+		"乡镇街道": "姚庄镇",
+		"所属区域": "",
+		"联络站名称": "嘉善县姚庄镇人大代表联络站",
+		"联络站地址": "姚庄镇锦绣大道1号招商楼一楼",
+		"联络人": "张  萍",
+		"职务": "姚庄镇人大办主任",
+		"联络电话": 84775355,
+		"移动电话": 13757392816,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=21E467B724F5941DE053660A010A0042",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.960823629,
+				30.914057022
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 28,
+		"所在区县": "海盐县",
+		"乡镇街道": "武原街道",
+		"所属区域": "海盐县",
+		"联络站名称": "海盐县武原街道人大代表联络站",
+		"联络站地址": "海盐县武原街道枣园中路128号街道办事处",
+		"联络人": "李斯宜",
+		"职务": "街道人大办副主任",
+		"联络电话": 86110511,
+		"移动电话": 13456228986,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=238A70CF8D67956BE053680A010A3EC9",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.938143694,
+				30.528287073
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 29,
+		"所在区县": "海盐县",
+		"乡镇街道": "西塘桥街道",
+		"所属区域": "",
+		"联络站名称": "海盐县西塘桥街道人大代表联络站",
+		"联络站地址": "海盐经济开发区杭州湾大桥新区海港大道1816号",
+		"联络人": "黄爱文",
+		"职务": "街道人大工委工作人员",
+		"联络电话": 86800015,
+		"移动电话": 13706594889,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=238A23EF7D45974CE053680A010AC898",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				121.0006671,
+				30.592820495
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 30,
+		"所在区县": "海盐县",
+		"乡镇街道": "于城镇",
+		"所属区域": "",
+		"联络站名称": "海盐县于城镇人大代表联络站",
+		"联络站地址": "海盐县于城镇政府三楼西人大代表活动室",
+		"联络人": "谢会德",
+		"职务": "镇人大办公室主任",
+		"联络电话": 86459605,
+		"移动电话": 13456264036,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=238A67507E569A1BE053680A010A1906",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.853850545,
+				30.532388692
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 31,
+		"所在区县": "海盐县",
+		"乡镇街道": "沈荡镇",
+		"所属区域": "",
+		"联络站名称": "海盐县沈荡镇人大代表联络站",
+		"联络站地址": "海盐县沈荡镇人民政府412室",
+		"联络人": "姜林美",
+		"职务": "镇人大办公室副主任",
+		"联络电话": 86587018,
+		"移动电话": 13666735386,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=238A48EBE7BE9577E053680A010AB8D5",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.81871625,
+				30.578476736
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 32,
+		"所在区县": "海盐县",
+		"乡镇街道": "澉浦镇",
+		"所属区域": "",
+		"联络站名称": "海盐县澉浦镇人大代表联络站",
+		"联络站地址": "海盐县澉浦镇南浦路685号澉浦镇人民政府三楼305室",
+		"联络人": "吴成斌",
+		"职务": "镇人大办主任",
+		"联络电话": 86565251,
+		"移动电话": 18257305899,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=238A669EB1E49A2EE053680A010AAA05",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.851421818,
+				30.399978991
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 33,
+		"所在区县": "海盐县",
+		"乡镇街道": "通元镇",
+		"所属区域": "",
+		"联络站名称": "海盐县通元镇人大代表联络站",
+		"联络站地址": "海盐县通元镇人民政府",
+		"联络人": "赵  希",
+		"职务": "镇人大办公室主任",
+		"联络电话": 86611097,
+		"移动电话": 13819064250,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=238A48EBE7C09577E053680A010AB8D5",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.84016768,
+				30.454068634
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 34,
+		"所在区县": "海盐县",
+		"乡镇街道": "百步镇",
+		"所属区域": "",
+		"联络站名称": "海盐县百步镇人大代表联络站",
+		"联络站地址": "海盐县百步镇政府（百步镇人大办公室）",
+		"联络人": "任凯波",
+		"职务": "镇人大办公室副主任",
+		"联络电话": 86770867,
+		"移动电话": 15967369350,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=238A70CF8D69956BE053680A010A3EC9",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.77784,
+				30.541662
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 35,
+		"所在区县": "海盐县",
+		"乡镇街道": "秦山街道",
+		"所属区域": "",
+		"联络站名称": "海盐县秦山街道人大代表联络站",
+		"联络站地址": "海盐县秦山街道办事处",
+		"联络人": "何丽慧",
+		"职务": "街道人大办副主任",
+		"联络电话": 86403821,
+		"移动电话": 13615834353,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=238A67507E589A1BE053680A010A1906",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.912936606,
+				30.435202268
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 36,
+		"所在区县": "平湖市",
+		"乡镇街道": "新仓镇",
+		"所属区域": "平湖市",
+		"联络站名称": "平湖市新仓镇人大代表联络站",
+		"联络站地址": "新仓镇人民政府305室",
+		"联络人": "马勤琴",
+		"职务": "新仓镇人大办副主任",
+		"联络电话": 85700390,
+		"移动电话": 15868315920,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1E2D2F844C8B5A32E053660A010A2466",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				121.185714543,
+				30.72461967
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 37,
+		"所在区县": "平湖市",
+		"乡镇街道": "乍浦镇",
+		"所属区域": "",
+		"联络站名称": "平湖市乍浦镇人大代表联络站",
+		"联络站地址": "平湖市乍浦镇雅山中路138号乍浦镇政府三楼",
+		"联络人": "叶春芬",
+		"职务": "乍浦镇人大办副主任",
+		"联络电话": 85623157,
+		"移动电话": "",
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1DCF39A7340E7AC3E053660A010AE10D",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				121.090895714,
+				30.606116696
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 38,
+		"所在区县": "平湖市",
+		"乡镇街道": "独山港镇",
+		"所属区域": "",
+		"联络站名称": "平湖市独山港镇人大代表联络站",
+		"联络站地址": "独山港镇人民政府5号楼底楼东",
+		"联络人": "许笑丽",
+		"职务": "独山港镇人大办干事",
+		"联络电话": 85851568,
+		"移动电话": 13511379397,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1D27B0CA1ECC58A2E053660A010AF22D",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				121.224349375,
+				30.681311845
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 39,
+		"所在区县": "平湖市",
+		"乡镇街道": "曹桥街道",
+		"所属区域": "",
+		"联络站名称": "平湖市曹桥街道人大代表联络站",
+		"联络站地址": "曹桥街道成人教育学校一楼",
+		"联络人": "吴  燕",
+		"职务": "",
+		"联络电话": 85967823,
+		"移动电话": 13505831370,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1B961E62CD924EF2E053660A010A979A",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.969456653,
+				30.674031659
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 40,
+		"所在区县": "平湖市",
+		"乡镇街道": "广陈镇",
+		"所属区域": "",
+		"联络站名称": "平湖市广陈镇人大代表联络站",
+		"联络站地址": "平湖市广陈镇 广陈镇人民政府1号楼102室",
+		"联络人": "周  洁",
+		"职务": "广陈镇人大秘书",
+		"联络电话": 85785203,
+		"移动电话": 18857372236,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1E58C0434780AE8EE053660A010AC9F8",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				121.129713385,
+				30.751898898
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 41,
+		"所在区县": "平湖市",
+		"乡镇街道": "新埭镇",
+		"所属区域": "",
+		"联络站名称": "平湖市新埭镇人大代表联络站",
+		"联络站地址": "平湖市新埭镇政府大楼二楼201室",
+		"联络人": "庞嘉隽",
+		"职务": "人大办工作人员",
+		"联络电话": 85608002,
+		"移动电话": 13706732313,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1D410C52597ABDA5E053660A010AEEBB",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				121.076631081,
+				30.82168315
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 42,
+		"所在区县": "平湖市",
+		"乡镇街道": "当湖街道",
+		"所属区域": "",
+		"联络站名称": "平湖市当湖街道人大代表联络站",
+		"联络站地址": "解放中路64号当湖街道社创中心<原城关镇政府>院内",
+		"联络人": "胡晓蕙",
+		"职务": "人大当湖街道工委秘书",
+		"联络电话": 85628150,
+		"移动电话": 15990331752,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1C8D3D82B7170DC5E053660A010AE0E3",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				121.014900547,
+				30.701790059
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 43,
+		"所在区县": "海宁市",
+		"乡镇街道": "许村镇",
+		"所属区域": "海宁市",
+		"联络站名称": "海宁市许村镇人大代表联络站",
+		"联络站地址": "海宁市许村镇人民大道2688号（许村镇人民政府）",
+		"联络人": "顾华梅",
+		"职务": "许村镇人大办副主任",
+		"联络电话": 87586003,
+		"移动电话": 13758349026,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1F37B5FC1A8C1991E053660A010A7DC8",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.356551476,
+				30.426515439
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 44,
+		"所在区县": "海宁市",
+		"乡镇街道": "长安镇",
+		"所属区域": "",
+		"联络站名称": "海宁市长安镇人大代表联络站",
+		"联络站地址": "海宁市长安镇青年路49号（长安镇人大政府）",
+		"联络人": "金  欣",
+		"职务": "",
+		"联络电话": 87416118,
+		"移动电话": 13567356178,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1F37B5FC1A8E1991E053660A010A7DC8",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.4433147,
+				30.455091205
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 45,
+		"所在区县": "海宁市",
+		"乡镇街道": "周王庙镇",
+		"所属区域": "",
+		"联络站名称": "海宁市周王庙镇人大代表联络站",
+		"联络站地址": "海宁市周王庙镇桑梓中路525号（周王庙镇人民政府）",
+		"联络人": "叶  毅",
+		"职务": "",
+		"联络电话": 87533177,
+		"移动电话": 15068316996,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1F46FA48C3C91B92E053660A010A1D09",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.505065367,
+				30.461965517
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 46,
+		"所在区县": "海宁市",
+		"乡镇街道": "盐官镇",
+		"所属区域": "",
+		"联络站名称": "海宁市盐官镇人大代表联络站",
+		"联络站地址": "海宁市盐官镇建设东路50号（盐官镇人民政府）",
+		"联络人": "朱霞萍",
+		"职务": "盐官镇人大办副主任",
+		"联络电话": 87687573,
+		"移动电话": 15988327718,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=21F2A7A8B5EA7DE3E053660A010AB0B2",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.553921127,
+				30.454163805
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 47,
+		"所在区县": "海宁市",
+		"乡镇街道": "丁桥镇",
+		"所属区域": "",
+		"联络站名称": "海宁市丁桥镇人大代表联络站",
+		"联络站地址": "海宁市丁桥镇镇中路83号（丁桥镇人民政府）",
+		"联络人": "陈  伟",
+		"职务": "丁桥镇人大办主任",
+		"联络电话": 87657169,
+		"移动电话": 13606734850,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1B95A2475D9E5F5EE053660A010A3290",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.638170434,
+				30.424395027
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 48,
+		"所在区县": "海宁市",
+		"乡镇街道": "斜桥镇",
+		"所属区域": "",
+		"联络站名称": "海宁市斜桥镇人大代表联络站",
+		"联络站地址": "海宁市斜桥镇庆万路187号（斜桥镇人民政府）",
+		"联络人": "陈芊含",
+		"职务": "",
+		"联络电话": 87783723,
+		"移动电话": 13586328933,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1F37B5FC1A921991E053660A010A7DC8",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.609312385,
+				30.496970257
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 49,
+		"所在区县": "海宁市",
+		"乡镇街道": "袁花镇",
+		"所属区域": "",
+		"联络站名称": "海宁市袁花镇人大代表联络站",
+		"联络站地址": "海宁市袁花镇南街路（袁花镇人民政府）",
+		"联络人": "王雪亮",
+		"职务": "袁花镇人大办主任",
+		"联络电话": 87861280,
+		"移动电话": 13606733583,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1F37DF999E0224DCE053660A010A236F",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.774593162,
+				30.41261053
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 50,
+		"所在区县": "海宁市",
+		"乡镇街道": "黄湾镇",
+		"所属区域": "",
+		"联络站名称": "海宁市黄湾镇人大代表联络站",
+		"联络站地址": "海宁市尖山新区潮起路28号（黄湾镇人民政府）",
+		"联络人": "凌伟琴",
+		"职务": "",
+		"联络电话": 87802919,
+		"移动电话": 13819410233,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1F3732F0C9B71222E053660A010ACE6F",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.789296939,
+				30.337767803
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 51,
+		"所在区县": "海宁市",
+		"乡镇街道": "硖石镇",
+		"所属区域": "",
+		"联络站名称": "海宁市硖石镇人大代表联络站",
+		"联络站地址": "海宁市海州东路552号（硖石街道办事处）",
+		"联络人": "张  静",
+		"职务": "",
+		"联络电话": 87023772,
+		"移动电话": 18768178923,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1F39464C2AEC5FAAE053660A010A2F48",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.703309697,
+				30.516301864
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 52,
+		"所在区县": "海宁市",
+		"乡镇街道": "海洲镇",
+		"所属区域": "",
+		"联络站名称": "海宁市海洲镇人大代表联络站",
+		"联络站地址": "海宁市海洲街道南苑路402号（海洲街道办事处）",
+		"联络人": "殷  杰",
+		"职务": "",
+		"联络电话": 87290813,
+		"移动电话": 15257372371,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1F5AEAE8315D62F5E053660A010A67AE",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.678458744,
+				30.516415861
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 53,
+		"所在区县": "海宁市",
+		"乡镇街道": "海昌镇",
+		"所属区域": "",
+		"联络站名称": "海宁市海昌镇人大代表联络站",
+		"联络站地址": "海宁市海昌街道由拳路66号（海昌街道办事处）",
+		"联络人": "黄  晓",
+		"职务": "",
+		"联络电话": 87095358,
+		"移动电话": 15157311550,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1FFD771C67BDA6C0E053660A010A08A1",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.696195,
+				30.542715
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 54,
+		"所在区县": "海宁市",
+		"乡镇街道": "马桥镇",
+		"所属区域": "",
+		"联络站名称": "海宁市马桥镇人大代表联络站",
+		"联络站地址": "海宁市马桥街道胜利路8号（马桥街道办事处）",
+		"联络人": "杨路钱",
+		"职务": "马桥街道人大办主任",
+		"联络电话": 87766128,
+		"移动电话": 13758323733,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1F391E89EF4F5A92E053660A010ACE1A",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.698546195,
+				30.464405869
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 55,
+		"所在区县": "桐乡市",
+		"乡镇街道": "大麻镇",
+		"所属区域": "",
+		"联络站名称": "桐乡市大麻镇人大代表联络站",
+		"联络站地址": "大麻镇人民政府3楼西接待室",
+		"联络人": "陆  威",
+		"职务": "人大办副主任",
+		"联络电话": 89392123,
+		"移动电话": 15157305152,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=23C2C861956AA425E053650A010AE54D",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.340954418,
+				30.500840155
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 56,
+		"所在区县": "桐乡市",
+		"乡镇街道": "凤鸣镇",
+		"所属区域": "",
+		"联络站名称": "桐乡市凤鸣镇人大代表联络站",
+		"联络站地址": "凤鸣街道办事处",
+		"联络人": "彭涤潇",
+		"职务": "凤鸣街道人大办副主任",
+		"联络电话": 88103270,
+		"移动电话": 15906736001,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1B961E62CD8A4EF2E053660A010A979A",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.463839408,
+				30.575948401
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 57,
+		"所在区县": "桐乡市",
+		"乡镇街道": "高桥街道",
+		"所属区域": "",
+		"联络站名称": "桐乡市开发区（高桥街道）人大代表联络站",
+		"联络站地址": "桐乡市高架路68号高桥街道办事处",
+		"联络人": "胡璐曼",
+		"职务": "高桥街道人大工委秘书",
+		"联络电话": 88966118,
+		"移动电话": 18457300617,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=23D65756F8038F55E053650A010ADD0D",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.543661209,
+				30.524747738
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 58,
+		"所在区县": "桐乡市",
+		"乡镇街道": "河山镇",
+		"所属区域": "",
+		"联络站名称": "桐乡市河山镇人大代表联络站",
+		"联络站地址": "河山镇世纪新路2号政府大院内",
+		"联络人": "韩云芳",
+		"职务": "河山镇人大办副主任",
+		"联络电话": 88677031,
+		"移动电话": 13867363259,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=242A108C15CAB475E053650A010A8A40",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.363856889,
+				30.63517583
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 59,
+		"所在区县": "桐乡市",
+		"乡镇街道": "濮院镇",
+		"所属区域": "",
+		"联络站名称": "桐乡市濮院镇人大代表联络站",
+		"联络站地址": "濮院镇滨河路锦苑小区内",
+		"联络人": "鲍燕楼",
+		"职务": "镇人大办副主任",
+		"联络电话": 88827041,
+		"移动电话": 15990304394,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=23C2289901C29493E053650A010A1F12",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.621292034,
+				30.675617917
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 60,
+		"所在区县": "桐乡市",
+		"乡镇街道": "石门镇",
+		"所属区域": "",
+		"联络站名称": "桐乡市石门镇人大代表联络站",
+		"联络站地址": "桐乡市石门镇人民政府四楼中会议室",
+		"联络人": "崔陆贤",
+		"职务": "镇人大秘书",
+		"联络电话": 88619628,
+		"移动电话": 15157370631,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=244F58BAE43F145BE053650A010A17B4",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.441335792,
+				30.626791331
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 61,
+		"所在区县": "桐乡市",
+		"乡镇街道": "屠甸镇",
+		"所属区域": "",
+		"联络站名称": "桐乡市屠甸镇人大代表联络站",
+		"联络站地址": "屠甸镇人民政府",
+		"联络人": "姚秋英",
+		"职务": "镇人大秘书",
+		"联络电话": 89399207,
+		"移动电话": 15257316710,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=23C196FD6AEB727CE053650A010A45A3",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.617231926,
+				30.576715256
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 62,
+		"所在区县": "南湖区",
+		"乡镇街道": "大桥镇",
+		"所属区域": "",
+		"联络站名称": "南湖区大桥镇人大代表联络站",
+		"联络站地址": "大桥镇人民政府主楼302室",
+		"联络人": "张佳慧",
+		"职务": "大桥镇人大办公室主任",
+		"联络电话": 89991172,
+		"移动电话": 13967321866,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1E41655A958965EFE053660A010A2A8C",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.854301986,
+				30.744605215
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 63,
+		"所在区县": "秀洲区",
+		"乡镇街道": "王江泾镇",
+		"所属区域": "",
+		"联络站名称": "秀洲区王江泾镇人大代表联络站",
+		"联络站地址": "秀洲区王泾镇政府1号楼413室",
+		"联络人": "杨利平",
+		"职务": "王江泾镇人大办主任",
+		"联络电话": 83682923,
+		"移动电话": 13857347048,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1DCA1E4BCCCAADF7E053660A010A3D72",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.729384358,
+				30.897686398
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 64,
+		"所在区县": "桐乡市",
+		"乡镇街道": "乌镇镇",
+		"所属区域": "",
+		"联络站名称": "桐乡市乌镇镇人大代表联络站",
+		"联络站地址": "乌镇镇龙翔工作联络处二楼人大会议室",
+		"联络人": "华晓洲",
+		"职务": "镇团委书记、人大办副主任",
+		"联络电话": 89387953,
+		"移动电话": 15968389902,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=25E3500148065308E053650A010AFEA6",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.523404896,
+				30.675135562
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 65,
+		"所在区县": "嘉善县",
+		"乡镇街道": "罗星街道",
+		"所属区域": "",
+		"联络站名称": "嘉善县罗星街道人大代表联络站",
+		"联络站地址": "嘉善县人民大道881号新城大厦罗星街道410会议室",
+		"联络人": "戴  丽",
+		"职务": "县人大罗星街道工委秘书、人大办主任",
+		"联络电话": 89101118,
+		"移动电话": 13967301223,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1B964B904D5E5954E053660A010A3A6F",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.91529089,
+				30.831319195
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 66,
+		"所在区县": "海盐县",
+		"乡镇街道": "望海街道",
+		"所属区域": "",
+		"联络站名称": "海盐县望海街道人大代表联络站",
+		"联络站地址": "海盐县望海街道长丰路2号望海街道办事处",
+		"联络人": "陈沈飞",
+		"职务": "街道人大工委工作人员",
+		"联络电话": 86110073,
+		"移动电话": 18067808697,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1B9647740F5D434CE053660A010A83C7",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.941241301,
+				30.555595909
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 67,
+		"所在区县": "平湖市",
+		"乡镇街道": "林埭镇",
+		"所属区域": "",
+		"联络站名称": "平湖市林埭镇人大代表联络站",
+		"联络站地址": "平湖市林埭镇林兴路258号",
+		"联络人": "屠臻晟",
+		"职务": "镇人大办副主任",
+		"联络电话": 85826781,
+		"移动电话": 13505739456,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1DCE7426C5E762DCE053660A010AF983",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				121.093511886,
+				30.654957842
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 68,
+		"所在区县": "嘉善县",
+		"乡镇街道": "天凝镇",
+		"所属区域": "",
+		"联络站名称": "嘉善县天凝镇人大代表联络站",
+		"联络站地址": "嘉善县天凝镇天凝大道345号招商服务中心三",
+		"联络人": "陶定定",
+		"职务": "人大办公室副主任",
+		"联络电话": 84911506,
+		"移动电话": 13456353159,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=221F09005969A299E053660A010AED0C",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.84002581,
+				30.893554617
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 69,
+		"所在区县": "嘉善县",
+		"乡镇街道": "大云镇",
+		"所属区域": "",
+		"联络站名称": "嘉善县大云镇人大代表联络",
+		"联络站地址": "大云镇花乡大道88号",
+		"联络人": "程  钢",
+		"职务": "",
+		"联络电话": 84665151,
+		"移动电话": 13819353803,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=220CF439718C95F0E053660A010AC659",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.94528592,
+				30.785725498
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 70,
+		"所在区县": "桐乡市",
+		"乡镇街道": "崇福镇",
+		"所属区域": "桐乡市",
+		"联络站名称": "桐乡市崇福镇人大代表联络站",
+		"联络站地址": "崇福镇社会治理办公大楼808室",
+		"联络人": "沈  丽",
+		"职务": "崇福镇人大办副主任",
+		"联络电话": 88901573,
+		"移动电话": 13758326025,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=23C26133120598AAE053650A010A998D",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.419266694,
+				30.529939552
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 71,
+		"所在区县": "平湖市",
+		"乡镇街道": "钟埭街道",
+		"所属区域": "",
+		"联络站名称": "平湖市钟埭街道人大代表联络站",
+		"联络站地址": "平湖市钟埭街道便民服务中心3楼",
+		"联络人": "丁婧婧",
+		"职务": "人大工委办副主任",
+		"联络电话": 85620003,
+		"移动电话": 15958371710,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1F4DBA4719F9102CE053660A010AAED2",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				121.005080585,
+				30.732756741
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 72,
+		"所在区县": "南湖区",
+		"乡镇街道": "建设街道",
+		"所属区域": "",
+		"联络站名称": "南湖区建设街道人大代表联络站（街道文化中心（瓶山百福弄）联络站）",
+		"联络站地址": "勤俭路1095号街道文化中心",
+		"联络人": "王银卿",
+		"职务": "建设街道百福弄社区书记",
+		"联络电话": 82088571,
+		"移动电话": 13757323373,
+		"级别": 2,
+		"链接": "http://dblz.zjrd.gov.cn/dbllz/index.aspx?id=1E4174A669F76507E053660A010A4364",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.743915717,
+				30.768108675
+			]
+		}
+	},
+	{
+		"json_featuretype": "LLZ",
+		"OBJECTID": 73,
+		"所在区县": "嘉兴市",
+		"乡镇街道": " ",
+		"所属区域": "",
+		"联络站名称": "嘉兴市人大代表联络总站",
+		"联络站地址": "嘉兴市秀洲区吉安路148号",
+		"联络人": "于瑞华",
+		"职务": "",
+		"联络电话": "",
+		"移动电话": "",
+		"级别": 1,
+		"链接": "http://dblz.zjrd.gov.cn/web/LLZList.aspx?c=3304",
+		"json_ogc_wkt_crs": "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.731326696,
+				30.760426916
+			]
+		}
+	}
+]
